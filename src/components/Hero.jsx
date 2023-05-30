@@ -11,16 +11,16 @@ const Hero = () => {
         {/* side line and dot div color hexa value = voilet and line had same gradient */}
         <div className='flex flex-col justify-center items-center mt-5'>
           <div className='w-5 h-5 rounded-full bg-[#915EFF]' />
-          <div className='w-1 sm:h-80 h-40 violet-gradient' />
+          <div className='w-1 sm:h-80 h-40 purple-gradient' />
         </div>
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
             Hey, I'm <span className='text-[#915EFF]'>Akshay Gupta</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop NodeJs Backend <br className='sm:block hidden' />
-            React web applications
+          <p className={`${styles.heroSubText} mt-2 text-indigo-80`}>
+            I develop fullstack web applications<br className='sm:block hidden' />
+            Enhancing skills in Problem solving, Data structure.
           </p>
         </div>
       </div>
