@@ -46,7 +46,7 @@ const Navbar = () => {
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Akshay Gupta &nbsp;
             {/* unicode element for an empty space */}
-            <span className='sm:block hidden'> | Welcome here !!</span>
+            <span className='sm:block hidden'> | Welcome here!!</span>
           </p>
         </Link>
 

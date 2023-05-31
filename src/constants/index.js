@@ -1,7 +1,5 @@
 import {
-
   backend,
-  
   web,
   javascript,
   typescript,
@@ -47,11 +45,11 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
+    name: "HTML ",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "CSS ",
     icon: css,
   },
   {
@@ -184,9 +182,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Vidscaper",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to search video editing team for their social media and Youtube platforms.",
     tags: [
       {
         name: "react",
@@ -197,7 +195,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "NodeJs",
         color: "pink-text-gradient",
       },
     ],
@@ -205,20 +203,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Textscaper",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that allow user to enter text, paste texts and can alter them according to need, Case conversion, extra space removal, word limit counter.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Bootstrap",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
@@ -226,20 +224,20 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Music player",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A comprehensive web application that allow user to play MP3 - audio songs, next, previous, can fetch audio files which are added to path.",
     tags: [
       {
-        name: "nextjs",
+        name: "JavaScript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Html/css",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "bootstrap",
         color: "pink-text-gradient",
       },
     ],
